@@ -37,7 +37,7 @@ Here are a few projects I've been working on:
 - 💼 [LinkedIn](https://linkedin.com/in/faizan-farooq-75339b2a5)  
 - 📧 Email: **zanfai48@gmail.com**  
 - ☎️ Phone: **+91-6006220735**  
-- 🐱 [GitHub](https://github.com/faizanfarooq)
+- 🐱 [GitHub](https://github.com/Faizanfar)
 
 ---
 
