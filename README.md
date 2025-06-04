@@ -12,16 +12,7 @@ I enjoy learning by building real-world projects and improving through practice.
 - Git & GitHub  
 - Vercel for deployment  
 
----
 
-## 🚀 Projects
-
-Here are a few projects I've been working on:
-
-- 🔗 [PROJECT](https://vercel.com/faizan-farooqs-projects-445bcb22)
-> *More projects coming as I grow and explore.*
-
----
 
 ## 🌱 Currently Learning
 
