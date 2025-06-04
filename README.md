@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Faizan
 
-<!--
-**Faizanfar/faizanfar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about building clean, modern, and responsive web apps.  
+I enjoy learning by building real-world projects and improving through practice.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- HTML, CSS, JavaScript  
+- React (currently learning more deeply)  
+- Git & GitHub  
+- Vercel for deployment  
+
+---
+
+## 🚀 Projects
+
+Here are a few projects I've been working on:
+
+- 🔗 [PROJECT](https://vercel.com/faizan-farooqs-projects-445bcb22)
+> *More projects coming as I grow and explore.*
+
+---
+
+## 🌱 Currently Learning
+
+- React Hooks & Context API  
+- Component structuring and state management  
+- JavaScript ES6+, APIs  
+- UI/UX design principles  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/faizan-farooq-75339b2a5)  
+- 📧 Email: **zanfai48@gmail.com**  
+- ☎️ Phone: **+91-6006220735**  
+- 🐱 [GitHub](https://github.com/faizanfarooq)
+
+---
+
+<p align="center">Thanks for visiting my profile!</p>
+
